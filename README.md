@@ -14,4 +14,8 @@ The folder `datadir` should contain at least `velodyne_data` and `ground_truth`.
 Third, run the script.
 The output should look like below.
 
-![Point Cloud Screenshot](screenshot.png)
+Synchronized point cloud:
+![Synchronized point cloud](screenshot_sync.png)
+
+Raw points projected into robot frame:
+![Raw points projected into robot frame](screenshot_hits.png)
